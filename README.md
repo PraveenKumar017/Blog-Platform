@@ -1,1 +1,1 @@
-Blogging- platform : https://www.figma.com/proto/RCzXfu95LuZ8AY0x0z6PSq/Blog-Platform?page-id=0%3A1&type=design&node-id=256-1695&viewport=-251%2C308%2C0.04&t=2Zvi4hGbsEDrOLUt-1&scaling=min-zoom&starting-point-node-id=256%3A1695
+Blogging- platform : https://www.figma.com/proto/RCzXfu95LuZ8AY0x0z6PSq/Blog-Platform?page-id=0%3A1&type=design&node-id=256-1695&viewport=-8694%2C729%2C0.49&t=0UA25hlyOrxJyWhV-1&scaling=min-zoom&starting-point-node-id=256%3A1695&mode=design
